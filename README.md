@@ -1,4 +1,4 @@
-# Redis Caching Mechanism
+# Redis External Cache
 
 This repository will illustrate how to use Redis as an external caching mechanism with JAM/Panther. Read the document for the instructions on how to re-build the jServer and for a tutorial videos:
 
